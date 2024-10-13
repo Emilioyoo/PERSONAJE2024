@@ -1,5 +1,5 @@
-# Personaje2024
-## Nombre del pesonaje
+# Casco Deadmau5
+## Nombre del personaje
 Casco Deadmau5
 ## Creador
 Jonathan Emilio Yañez Olvera
