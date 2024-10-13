@@ -1,6 +1,6 @@
 # Personaje2024
 ## Nombre del pesonaje
-Mama Kuh
+Casco Deadmau5
 ## Creador
 Jonathan Emilio Yañez Olvera
 ## Explicacion del funcionamiento
@@ -13,10 +13,13 @@ el personaje al momento que se acerca 5 cm una persona comiemza a hacer algo (de
 
 
 ## software a utilizar
-|Software|Version|
+|Software|Versión|
+|--|--|
+|Thonny|4.1.6|
+|...||
 
 ## Dibujo del personaje
-imagen hecha a mano
+<img src="https://github.com/user-attachments/assets/6881436e-0162-4fc1-99e4-72befe5d0fdd" width="500"/>
 
 ## Enlaces de la simulacion en WOKWI
 
