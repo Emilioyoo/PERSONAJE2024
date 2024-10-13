@@ -26,5 +26,9 @@ el personaje al momento que se acerca 5 cm una persona comiemza a hacer algo (de
 ## Video
 
 ## Imagen de examenes CISCO C
-
-
+<img src="https://github.com/user-attachments/assets/eed6feec-47ca-48a4-bee8-db641f0db8ee" width="500"/>
+<img src="https://github.com/user-attachments/assets/a3d15fb9-440b-49c9-a73e-22c326154510" width="500"/>
+<img src="https://github.com/user-attachments/assets/7ee6faaf-1b7a-4b23-850b-e5369b34fe4e" width="500"/>
+<img src="https://github.com/user-attachments/assets/001824f3-8c77-4fcc-9902-cbd4455e56dc" width="500"/>
+<img src="https://github.com/user-attachments/assets/8447a21a-6219-4123-9727-32ff51d8fb31" width="500"/>
+<img src="https://github.com/user-attachments/assets/bd5f3402-922e-47c0-b868-457a8c32f697" width="500"/>
