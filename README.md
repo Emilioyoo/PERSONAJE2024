@@ -4,8 +4,7 @@ Casco Deadmau5
 ## Creador
 Jonathan Emilio Yañez Olvera
 ## Explicacion del funcionamiento
-el personaje al momento que se acerca 5 cm una persona comiemza a hacer algo (descripcion luz, sonido y movimiento)
-
+El casco realizara movimiento en las orejas y emitira luz. Cuando detecte movimiemto emitira sonido.
 ## Materiales a utilizar
 | Material | Imagen | Cantidad | Costo |
 |----------|--------|----------|-------|
