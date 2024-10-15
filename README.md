@@ -34,9 +34,9 @@ El casco realizara movimiento en las orejas y emitira luz. Cuando detecte movimi
 <img src="https://github.com/user-attachments/assets/6881436e-0162-4fc1-99e4-72befe5d0fdd" width="500"/>
 
 ## Enlaces de la simulacion en WOKWI
-
+https://wokwi.com/projects/411780211680402433
 ## Video
-
+https://drive.google.com/file/d/1eBnEb6-OEE2H-EU4fe1ZAze4UapY11Iw/view?usp=sharing
 ## Imagen de examenes CISCO C
 <img src="https://github.com/user-attachments/assets/eed6feec-47ca-48a4-bee8-db641f0db8ee" width="500"/>
 <img src="https://github.com/user-attachments/assets/a3d15fb9-440b-49c9-a73e-22c326154510" width="500"/>
