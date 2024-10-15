@@ -17,7 +17,7 @@ El casco realizara movimiento en las orejas y emitira luz. Cuando detecte movimi
 |Cutter |<img src="https://www.construactivo.com/5896-large_default/cutter-profesional-alma-metalica-18mm-truper.jpg" width="100"/> | 1  |15|
 |Silicona Caliente |<img src="https://i.pinimg.com/736x/e9/57/cc/e957ccedc373cd614b2b0b99678acb0d.jpg" width="100"/> | 1  |50|
 | Globo |<img src="https://github.com/user-attachments/assets/c21947ac-1ff9-4ad9-aef8-eeffff8a4ff2" width="100"/> | 1  |15|
-| Papel periodico |<img src="https://github.com/user-attachments/assets/44dd9811-6f14-4c4f-86d2-495384c75892)" width="100"/> | Varios  |16|
+| Papel periodico |<img src="https://github.com/user-attachments/assets/44dd9811-6f14-4c4f-86d2-495384c75892" width="100"/> | Varios  |16|
 | Resistol liquido |<img src="https://github.com/user-attachments/assets/e99c357b-66ae-49ed-bc82-c1ec349545ff" width="100"/> | 1  |15|
 | Foami  |<img src="https://github.com/user-attachments/assets/df52a2d3-2861-4342-ae9f-1b4dee3d0d5e" width="100"/> | 1  |105|
 | Pintura |<img src="https://github.com/user-attachments/assets/dfd5b22c-1f65-47c6-9956-393a27cf44af" width="100"/> | 1  |65|
