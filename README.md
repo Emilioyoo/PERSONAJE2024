@@ -29,7 +29,6 @@ El casco realizara movimiento en las orejas y emitira luz. Cuando detecte movimi
 |Software|Versión|
 |--|--|
 |Thonny|4.1.6|
-|...||
 
 ## Dibujo del personaje
 <img src="https://github.com/user-attachments/assets/6881436e-0162-4fc1-99e4-72befe5d0fdd" width="500"/>
