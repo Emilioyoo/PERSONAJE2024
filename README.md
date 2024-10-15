@@ -15,7 +15,6 @@ el personaje al momento que se acerca 5 cm una persona comiemza a hacer algo (de
 |Bateria AA |<img src="https://euroelectrica.com.mx/wp-content/uploads/2018/12/1500.jpg" width="100"/> | 2 |20|
 |Cableado para conexiones |<img src="https://m.media-amazon.com/images/I/71fdyWUFT8L.jpg" width="100"/> | Varios |40|
 |Alambre de cobre grueso |<img src="https://aymet.com.ar/wp-content/uploads/2023/05/cobre.webp" width="100"/> | 1 m |35|
-|Botella de Plastico |<img src="https://thumbs.dreamstime.com/z/botella-de-refresco-pl%C3%A1stico-grande-sobre-fondo-blanco-253497383.jpg" width="100"/> | 1  ||
 |Cutter |<img src="https://www.construactivo.com/5896-large_default/cutter-profesional-alma-metalica-18mm-truper.jpg" width="100"/> | 1  |15|
 |Silicona Caliente |<img src="https://i.pinimg.com/736x/e9/57/cc/e957ccedc373cd614b2b0b99678acb0d.jpg" width="100"/> | 1  |50|
 
