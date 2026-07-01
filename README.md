@@ -8,7 +8,8 @@ El casco realizara movimiento en las orejas y emitira luz. Cuando detecte movimi
 ## Materiales a utilizar
 | Material | Imagen | Cantidad | Costo |
 |----------|--------|----------|-------|
-| ESP32    | <img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/> | 1 | 120.00 |
+| ESP32    | <img src="<img width="349" height="521" alt="image" src="https://github.com/user-attachments/assets/bfc17f47-0da5-493c-92b3-5c0c18e6fd09" />
+" width="100"/> | 1 | 120.00 |
 | Servo motor  | <img src="https://m.media-amazon.com/images/I/51ZhuPCUauL._AC_UF894,1000_QL80_.jpg" width="100"/> | 2 | 89.00 |
 |   Altavoz    |     <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT2Uex9EaVH0t9VSWeqHC4T4kqgwmRSdmPtPs6Bym2Eh6qONbHuEYl-q0GPq9c_qOwTvFpXFIkd_iKgEQ0s-ocg3K6gz20E-gT0spYL_tjXi6lDQFQtG-QXhw&usqp=CAE" width="100"/>     |     1  |  69     |
 |Bateria AA |<img src="https://euroelectrica.com.mx/wp-content/uploads/2018/12/1500.jpg" width="100"/> | 2 |20|
